@@ -3,7 +3,7 @@ This project explores the Titanic dataset to identify key factors that influence
 
 Key Findings:
  1. Missing Data: Initial heatmaps revealed missing values in Age, Cabin, and Embarked. These were addressed through preprocessing, resulting in a clean dataset for analysis.
- 2. Survival Indicators: Visualizations consistently showed that gender, age, fare, and passenger class were critical in determining survival:
+ 2. Survival Indicators: Visualizations consistently showed that gender, age, fare, and passenger class were critical in determining survival
       > Females and younger passengers had a higher chance of survival.
       > Higher fare-paying and first-class passengers were more likely to survive.
  4. Model Evaluation: A confusion matrix revealed decent predictive performance, with some misclassifications indicating areas for model refinement.
