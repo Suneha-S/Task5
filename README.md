@@ -6,7 +6,7 @@ Key Findings:
  2. Survival Indicators: Visualizations consistently showed that gender, age, fare, and passenger class were critical in determining survival:
       > Females and younger passengers had a higher chance of survival.
       > Higher fare-paying and first-class passengers were more likely to survive.
-      > Model Evaluation: A confusion matrix revealed decent predictive performance, with some misclassifications indicating areas for model refinement.
+ 4. Model Evaluation: A confusion matrix revealed decent predictive performance, with some misclassifications indicating areas for model refinement.
  3. Visual Tools: Pair plots, histograms, box plots, scatter plots, and heatmaps were used to uncover patterns and distributions, confirming the impact of socioeconomic and demographic factors.
 
 Files Included:
